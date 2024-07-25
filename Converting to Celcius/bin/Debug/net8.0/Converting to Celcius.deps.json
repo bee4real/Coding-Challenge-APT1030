@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Converting to Celcius/1.0.0": {
+        "runtime": {
+          "Converting to Celcius.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converting to Celcius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

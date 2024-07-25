@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\bin\Debug\net8.0\Adding and Subtracting.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\bin\Debug\net8.0\Adding and Subtracting.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\bin\Debug\net8.0\Adding and Subtracting.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\bin\Debug\net8.0\Adding and Subtracting.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\bin\Debug\net8.0\Adding and Subtracting.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\refint\Adding and Subtracting.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\Adding and Subtracting.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Adding and Subtracting\obj\Debug\net8.0\ref\Adding and Subtracting.dll

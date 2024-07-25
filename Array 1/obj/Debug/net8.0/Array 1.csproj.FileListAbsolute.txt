@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\bin\Debug\net8.0\Array 1.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\bin\Debug\net8.0\Array 1.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\bin\Debug\net8.0\Array 1.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\bin\Debug\net8.0\Array 1.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\bin\Debug\net8.0\Array 1.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\refint\Array 1.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\Array 1.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array 1\obj\Debug\net8.0\ref\Array 1.dll

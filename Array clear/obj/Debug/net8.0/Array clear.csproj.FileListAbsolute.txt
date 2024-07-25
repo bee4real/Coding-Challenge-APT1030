@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\bin\Debug\net8.0\Array clear.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\bin\Debug\net8.0\Array clear.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\bin\Debug\net8.0\Array clear.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\bin\Debug\net8.0\Array clear.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\bin\Debug\net8.0\Array clear.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\refint\Array clear.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\Array clear.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array clear\obj\Debug\net8.0\ref\Array clear.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\bin\Debug\net8.0\Converting to Celcius.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\bin\Debug\net8.0\Converting to Celcius.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\bin\Debug\net8.0\Converting to Celcius.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\bin\Debug\net8.0\Converting to Celcius.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\bin\Debug\net8.0\Converting to Celcius.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\refint\Converting to Celcius.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\Converting to Celcius.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Converting to Celcius\obj\Debug\net8.0\ref\Converting to Celcius.dll

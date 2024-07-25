@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\bin\Debug\net8.0\Data types.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\bin\Debug\net8.0\Data types.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\bin\Debug\net8.0\Data types.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\bin\Debug\net8.0\Data types.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\bin\Debug\net8.0\Data types.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\refint\Data types.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\Data types.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Data types\obj\Debug\net8.0\ref\Data types.dll

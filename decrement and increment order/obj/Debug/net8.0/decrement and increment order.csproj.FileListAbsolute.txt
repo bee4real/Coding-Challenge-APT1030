@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\bin\Debug\net8.0\decrement and increment order.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\bin\Debug\net8.0\decrement and increment order.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\bin\Debug\net8.0\decrement and increment order.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\bin\Debug\net8.0\decrement and increment order.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\bin\Debug\net8.0\decrement and increment order.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\refint\decrement and increment order.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\decrement and increment order.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\decrement and increment order\obj\Debug\net8.0\ref\decrement and increment order.dll

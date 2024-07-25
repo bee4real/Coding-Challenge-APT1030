@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\bin\Debug\net8.0\Array reverse and sort.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\bin\Debug\net8.0\Array reverse and sort.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\bin\Debug\net8.0\Array reverse and sort.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\bin\Debug\net8.0\Array reverse and sort.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\bin\Debug\net8.0\Array reverse and sort.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\refint\Array reverse and sort.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\Array reverse and sort.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Array reverse and sort\obj\Debug\net8.0\ref\Array reverse and sort.dll

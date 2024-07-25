@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\bin\Debug\net8.0\String challenge.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\bin\Debug\net8.0\String challenge.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\bin\Debug\net8.0\String challenge.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\bin\Debug\net8.0\String challenge.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\bin\Debug\net8.0\String challenge.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\refint\String challenge.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\String challenge.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\String challenge\obj\Debug\net8.0\ref\String challenge.dll

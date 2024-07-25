@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.AssemblyInfo.cs
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\bin\Debug\net8.0\Classes and objects.exe
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\bin\Debug\net8.0\Classes and objects.deps.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\bin\Debug\net8.0\Classes and objects.runtimeconfig.json
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\bin\Debug\net8.0\Classes and objects.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\bin\Debug\net8.0\Classes and objects.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\refint\Classes and objects.dll
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.pdb
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\Classes and objects.genruntimeconfig.cache
+C:\Users\HP\Documents\APT 1030 C Documents\Projects\Classes and objects\obj\Debug\net8.0\ref\Classes and objects.dll
